@@ -1,0 +1,18 @@
+c:\users\ifsp\documents\visual studio 2010\Projects\Jogo_Educativo\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+c:\users\ifsp\documents\visual studio 2010\Projects\Jogo_Educativo\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+c:\users\ifsp\documents\visual studio 2010\Projects\Jogo_Educativo\Jogo_Educativo\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ifsp\documents\visual studio 2010\Projects\Jogo_Educativo\Jogo_Educativo\obj\x86\Debug\Jogo_Educativo.Form1.resources
+c:\users\ifsp\documents\visual studio 2010\Projects\Jogo_Educativo\Jogo_Educativo\obj\x86\Debug\Jogo_Educativo.Properties.Resources.resources
+c:\users\ifsp\documents\visual studio 2010\Projects\Jogo_Educativo\Jogo_Educativo\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ifsp\documents\visual studio 2010\Projects\Jogo_Educativo\Jogo_Educativo\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ifsp\documents\visual studio 2010\Projects\Jogo_Educativo\Jogo_Educativo\obj\x86\Debug\Jogo_Educativo.exe
+c:\users\ifsp\documents\visual studio 2010\Projects\Jogo_Educativo\Jogo_Educativo\obj\x86\Debug\Jogo_Educativo.pdb
+C:\Users\ifsp\Desktop\Jogo_Educativo\Jogo_Educativo\Jogo_Educativo\obj\x86\Debug\Jogo_Educativo.exe
+C:\Users\ifsp\Desktop\Jogo_Educativo\Jogo_Educativo\Jogo_Educativo\obj\x86\Debug\Jogo_Educativo.pdb
+C:\Users\ifsp\Desktop\Jogo_Educativo\Jogo_Educativo\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+C:\Users\ifsp\Desktop\Jogo_Educativo\Jogo_Educativo\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+C:\Users\ifsp\Desktop\Jogo_Educativo\Jogo_Educativo\Jogo_Educativo\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ifsp\Desktop\Jogo_Educativo\Jogo_Educativo\Jogo_Educativo\obj\x86\Debug\Jogo_Educativo.Form1.resources
+C:\Users\ifsp\Desktop\Jogo_Educativo\Jogo_Educativo\Jogo_Educativo\obj\x86\Debug\Jogo_Educativo.Properties.Resources.resources
+C:\Users\ifsp\Desktop\Jogo_Educativo\Jogo_Educativo\Jogo_Educativo\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ifsp\Desktop\Jogo_Educativo\Jogo_Educativo\Jogo_Educativo\obj\x86\Debug\GenerateResource.write.1.tlog
